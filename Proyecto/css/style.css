@@ -1,0 +1,54 @@
+.linea
+{
+	border-right: 1px solid #ccc;
+}
+.espacio
+{
+	padding-left: 40px;
+	padding-top: 20px;
+}
+#map
+{
+	width: 100%;
+	height: 600px;
+}
+.logo
+{
+	width: 99%;
+	display: inline-block;
+}
+.cardp
+{
+	padding-bottom: 10px;
+}
+
+/* preloader */
+#preloader 
+{
+	position: fixed;
+	top:0; 
+	left:0;
+	right:0; 
+	bottom:0;
+	background: white;
+	z-index: 100;
+}
+#loader 
+{
+	width: 250px;
+	height: 229px;
+	position: absolute;
+	left:42%; 
+	top:33%;
+	background: url(../img/preloader.gif) no-repeat center 0;	
+}
+::-webkit-scrollbar 
+{
+    width: 0px;  /* remove scrollbar space */
+    background: transparent;  /* optional: just make scrollbar invisible */
+}
+.scroll
+{
+	height:600px; 
+	overflow: scroll;
+}

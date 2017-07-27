@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+ <title> INSERTAR MAPA EN GOOGLE MAPS</title>
+
+
+<script src="http://maps.googleapis.com/maps/api/js"> </script>
+
+<script>
+
+ function init(){
+        var mapOption = {
+         center: new google.maps.LatLng(-0.18659558628491135,-78.4305382),
+         zoom: 10,
+         mapTypeId:google.maps.MapTypeId.ROADMAP
+        };
+    var map = new google.maps.Map(document.getElementById("map"),mapOption);
+ 
+ }
+
+google.maps.event.addDomListener(window, 'load', init);
+
+</script>
+
+
+</head>
+<body>
+
+<div id="map" style="width:500px; height: 400px; border: solid; border-color: #00FFFF  "></div>
+
+
+
+
+</body>
+</html>﻿
