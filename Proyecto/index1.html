@@ -36,16 +36,11 @@
 				</div>
 				<!--Sección menú BÚSQUEDA-->
 				<div class="col-10 espacio">
-					<form class="form-inlane">
-						<div class="row">
-							<div class="col-1">
-								<i class="fa fa-search fa-3x img-fluid" aria-hidden="true"></i>
-							</div>
-							<div class="col-10">
-								<input type="text" class="form-control" placeholder="Buscar iglesia...">
-							</div>
-						</div>
-					</form>
+					<div class="input-group">
+						<span class="input-group-addon"><i class="fa fa-search fa-2	x img-fluid" aria-hidden="true"></i></span>
+						</span>
+						<input type="text" class="form-control" id="buscar" placeholder="Buscar iglesia...">
+					</div>
 				</div>
 			</nav>
 		</div>
@@ -57,7 +52,7 @@
     <div class="row">
     	<!--Contenido en fotos de iglesia-->
 		<div class="col-6">
-			<div class="row scroll">
+			<div class="row scroll" id="contenidoIglesias">
 				<div class="col-sm-6 cardp">
 					<div class="card" style="background-image: url(img/iglesia0.png);">
 						<div class="card-block">
@@ -155,6 +150,7 @@
 	<script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script>
+
 <!--FinLibrerias-->
 </body>
 </html>

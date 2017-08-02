@@ -1,4 +1,5 @@
-[
+{
+  "Iglesias": [
     {
       "Nombre": "San Francisco",
       "Ubicacion": "Centro Historico Quito",
@@ -49,4 +50,5 @@
       "Ubicacion": "Centro Historico Quito",
       "Imagen": "img/iglesia1.png"
     }
-]
+  ]
+}

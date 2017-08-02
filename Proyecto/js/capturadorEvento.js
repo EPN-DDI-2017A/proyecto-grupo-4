@@ -1,18 +1,20 @@
 $(document).ready(function()
 {
   $('#buscar').focus()
-
   $('#buscar').on('keyup', function()
   {
-    var palabra = $('#buscar').val()
+    var palabra = $('#buscar').val();
       $.ajax({
-        url: 'php/buscar.php',
-        type: 'POST',
-        data: {'palabra': palabra},
+      type: 'POST',
+      url: '../php/buscar.php',
+      data: {'palabra': palabra},
+      beforeSend: function(){
+      $('#result').html('<img src="img/pacman.gif">')
+      }
       })
       .done(function(resultado)
       {
-        $('#contenidoIglesias').html(resultado);
+      $('#contenidoIglesias').html(resultado);
       })
       .fail(function()
       {
@@ -24,3 +26,5 @@ $(document).ready(function()
       })
   })
 })
+
+
