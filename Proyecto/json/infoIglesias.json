@@ -1,54 +1,72 @@
-{
-  "Iglesias": [
+[
     {
       "Nombre": "San Francisco",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia0.png"
+      "Imagen": "img/iglesia0.png",
+      "Latitud":-0.220384,
+      "Longitud":-78.51528769999999
     },
     {
       "Nombre": "La Catedral",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia1.png"
+      "Imagen": "img/iglesia1.png",
+      "Latitud":-0.2204725,
+      "Longitud":-78.51257249999998
     },
     {
       "Nombre": "La Concepcion",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia2.png"
+      "Imagen": "img/iglesia2.png",
+      "Latitud":-0.2193354,
+      "Longitud":-78.51223329999999
     },
     {
       "Nombre": "La Merced",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia3.png"
+      "Imagen": "img/iglesia3.png",
+      "Latitud":-0.2179875,
+      "Longitud":-78.51356099999998
     },
     {
       "Nombre": "La Compania",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia0.png"
+      "Imagen": "img/iglesia0.png",
+      "Latitud":-0.2207706,
+      "Longitud":-78.51389840000002
     },
     {
       "Nombre": "La Basilica",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia1.png"
+      "Imagen": "img/iglesia1.png",
+      "Latitud":-0.222846,
+      "Longitud":-78.51709950000003:
     },
     {
       "Nombre": "El Sagrario",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia2.png"
+      "Imagen": "img/iglesia2.png",
+      "Latitud":-0.220642,
+      "Longitud":-78.5127761
     },
     {
       "Nombre": "San Agustin",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia3.png"
+      "Imagen": "img/iglesia3.png",
+      "Latitud":-0.220476,
+      "Longitud":-78.5102463
     },
     {
       "Nombre": "Carmen Bajo",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia0.png"
+      "Imagen": "img/iglesia0.png",
+      "Latitud":-0.22269520717021932,
+      "Longitud":-78.51491779088974
     },
     {
       "Nombre": "Carmen Alto",
       "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia1.png"
+      "Imagen": "img/iglesia1.png",
+      "Latitud":-0.22265497433884063,
+      "Longitud":-78.51515650749207
     }
-  ]
-}
+]
