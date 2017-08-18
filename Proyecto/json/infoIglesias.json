@@ -1,72 +1,82 @@
 [
     {
-      "Nombre": "San Francisco",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia0.png",
+      "Nombre": "Iglesia San Francisco",
+      "Ubicacion": "Centro Historico Quito, al frente una plaza con su mismo nombre",
+      "Imagen": "img/i1.jpg",
       "Latitud":-0.220384,
-      "Longitud":-78.51528769999999
+      "Longitud":-78.51528769999999,
+      "id":"igsf"
     },
     {
-      "Nombre": "La Catedral",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia1.png",
+      "Nombre": "Iglesia La Catedral",
+      "Ubicacion": "Centro Historico Quito, sede de la Arquidiócesis Primada de Quito",
+      "Imagen": "img/i2.jpg",
       "Latitud":-0.2204725,
-      "Longitud":-78.51257249999998
+      "Longitud":-78.51257249999998,
+      "id":"iglc"
     },
     {
-      "Nombre": "La Concepcion",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia2.png",
+      "Nombre": "Iglesia La Concepcion",
+      "Ubicacion": "Centro Historico Quito, esquina noroccidental de la Plaza Grande",
+      "Imagen": "img/i3.jpg",
       "Latitud":-0.2193354,
-      "Longitud":-78.51223329999999
+      "Longitud":-78.51223329999999,
+      "id":"iglco"
     },
     {
-      "Nombre": "La Merced",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia3.png",
+      "Nombre": "Iglesia La Merced",
+      "Ubicacion": "Centro Historico Quito, sede de la Orden Mercedaria en el pais",
+      "Imagen": "img/i4.jpg",
       "Latitud":-0.2179875,
-      "Longitud":-78.51356099999998
+      "Longitud":-78.51356099999998,
+      "id":"iglm"
     },
     {
-      "Nombre": "La Compania",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia0.png",
+      "Nombre": "Iglesia La Compania",
+      "Ubicacion": "Centro Historico Quito, estructura más importante del Quito colonial ",
+      "Imagen": "img/i5.jpg",
       "Latitud":-0.2207706,
-      "Longitud":-78.51389840000002
+      "Longitud":-78.51389840000002,
+      "id":"iglcom"
     },
     {
-      "Nombre": "La Basilica",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia1.png",
+      "Nombre": "Iglesia La Basilica",
+      "Ubicacion": "Centro Historico Quito, iglesia más grande y reciente del Ecuador",
+      "Imagen": "img/i6.jpg",
       "Latitud":-0.222846,
-      "Longitud":-78.51709950000003:
+      "Longitud":-78.51709950000003,
+      "id":"iglb"
     },
     {
-      "Nombre": "El Sagrario",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia2.png",
+      "Nombre": "Iglesia El Sagrario",
+      "Ubicacion": "Centro Historico Quito, baluarte arquitectónico de Quito en tiempo de la colonia.",
+      "Imagen": "img/i7.jpg",
       "Latitud":-0.220642,
-      "Longitud":-78.5127761
+      "Longitud":-78.5127761,
+      "id":"iges"
     },
     {
-      "Nombre": "San Agustin",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia3.png",
+      "Nombre": "Iglesia San Agustin",
+      "Ubicacion": "Centro Historico Quito, estructura tallada en piedra reflejan lo característico del siglo XVI.",
+      "Imagen": "img/i8.jpg",
       "Latitud":-0.220476,
-      "Longitud":-78.5102463
+      "Longitud":-78.5102463,
+      "id":"igsa"
     },
     {
-      "Nombre": "Carmen Bajo",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia0.png",
+      "Nombre": "Iglesia Carmen Bajo",
+      "Ubicacion": "Centro Historico Quito, innumerables tesoros arquitectónicos repletos de historia",
+      "Imagen": "img/i9.jpg",
       "Latitud":-0.22269520717021932,
-      "Longitud":-78.51491779088974
+      "Longitud":-78.51491779088974,
+      "id":"igcb"
     },
     {
-      "Nombre": "Carmen Alto",
-      "Ubicacion": "Centro Historico Quito",
-      "Imagen": "img/iglesia1.png",
+      "Nombre": "Iglesia Carmen Alto",
+      "Ubicacion": "Centro Historico Quito, es una obra que contiene admirables acabados y una historia conmovedora",
+      "Imagen": "img/i10.jpg",
       "Latitud":-0.22265497433884063,
-      "Longitud":-78.51515650749207
+      "Longitud":-78.51515650749207,
+      "id":"igca"
     }
 ]
